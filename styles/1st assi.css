@@ -49,11 +49,11 @@ nav{
   
 }
 .web{
-    color: blueviolet;
+    color:blue;
     font-size: 30px;
 }
 .text{
-    color:blueviolet;
+    color:#3730A3;
     text-align: left;
     font-weight: 40%;
     text-align: left;
@@ -105,6 +105,30 @@ div ul li{
   text-align: center;
   justify-content: center;
 }
-.field{
+.allign{
   display: flex;
+   justify-content: right;
+}
+.color{
+ 
+    font-size: 20px;
+    color: aliceblue;
+    background-color:blue ;
+    border: none;
+}
+.font{
+ font-size: 45px;
+ color: #3730A3;
+
+}
+.footer{
+  font-size: 50px;
+  color: #3730A3;
+  font-style:bold;
+  text-align: center;
+}
+.footpara{
+  font-size: 25px;
+  color: #000000;
+  text-align: center;
 }
