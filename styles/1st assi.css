@@ -1,0 +1,100 @@
+
+
+/*nav styles */
+nav{
+    display: flex;
+     align-items: center;
+    justify-content: space-between; 
+    color: blue;
+    margin: 0 100px;
+}
+.nav-title{
+    font-size: 45px;
+    font-weight: 800;
+    
+}
+  .sign{
+    list-style: none;
+    font-size: 20px;
+    color: aliceblue;
+    background-color:blue ;
+    border-radius: 15px;
+     width: 120px;
+  height: 40px;
+  border: none;
+}
+.banner{ 
+   font-family: 'Poppins', sans-serif; 
+  font-size: 35px;
+  font-weight: 700;
+  color:#000000; /* Or a dark gray tone */
+  text-align: center;
+}
+.button{
+    text-align: center;
+
+}
+.banner-content :hover {
+  background-color: #3730A3;  darker shade for hover 
+}
+.banner-content{
+      list-style: none;
+    font-size: 20px;
+    background-color:blue ;
+    border-radius: 15px;
+     width: 140px;
+  height:45px;
+  border: none;
+  color: white;
+  
+}
+.web{
+    color: blueviolet;
+    font-size: 30px;
+}
+.text{
+    color:blueviolet;
+    text-align: left;
+    font-weight: 40%;
+    text-align: left;
+ }
+ .btn{
+       list-style: none;
+    font-size: 20px;
+    background-color:blue ;
+    border-radius: 15px;
+     width: 200px;
+  height:45px;
+  border: none;
+  color: white;
+  text-align: left;
+  
+
+}
+.web{
+    display: flex;
+    nav
+    display: flex;
+    align-items:right;
+    justify-content: space-between;
+}
+h3{
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    color:# 1E1E1E;
+}
+.section-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3730A3;
+    font-size:40px;
+    font-weight: bold;
+    list-style: none;
+}
+div ul li{
+    display: flex;
+    margin: 50px;
+}
